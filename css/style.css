@@ -1,0 +1,18 @@
+* {
+margin: auto;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.heading{
+margin: 5rem auto;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.video > video {
+    display: flex;
+width: 30vw;
+height: 40vh;
+}
